@@ -12,4 +12,6 @@ body {
 
 .header-top {
   background-color: #ff0500;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: #fff;
 }
