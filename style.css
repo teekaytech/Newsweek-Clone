@@ -6,12 +6,24 @@
 
 body {
   background-color: #f4f5f6;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Arial Narrow', 'Franklin Gothic Medium', Arial, sans-serif;
   padding: 0 20px;
 }
 
 .header-top {
   background-color: #ff0500;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: #fff;
+}
+
+.deep-link {
+  font-size: 1.3rem;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+a {
+  color: #000;
+}
+
+a:hover {
+  color: #ff0500;
 }
