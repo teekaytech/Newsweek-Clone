@@ -1,7 +1,10 @@
-body {
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+
+.full-page {
   font-family: 'Arial Narrow', 'Franklin Gothic Medium', Arial, sans-serif;
   padding-left: 20px;
   padding-right: 20px;
