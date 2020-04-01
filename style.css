@@ -1,13 +1,10 @@
-* {
+body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
-
-body {
-  background-color: #f4f5f6;
   font-family: 'Arial Narrow', 'Franklin Gothic Medium', Arial, sans-serif;
-  padding: 0 20px;
+  padding-left: 20px;
+  padding-right: 20px;
   font-size: 1.2rem;
 }
 
@@ -27,4 +24,10 @@ a {
 
 a:hover {
   color: #ff0500;
+}
+
+.newsletter {
+  background: url('assets/img/starting5-homepage.png') center no-repeat;
+  background-size: cover;
+  height: 240px;
 }
