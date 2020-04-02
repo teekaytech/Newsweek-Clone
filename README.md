@@ -1,24 +1,18 @@
 # Apple Clone
 
-This is a clone application of archived apple website.
-<br>
-<br>
-<img src="assets/screen_one.jpg" width="350"> 
-<img src="assets/screen_two.jpg" width="350"> 
-<br>
+This is a clone application of Newsweek website.
+<br><br><img src="assets/img/screen-one.jpg" width="350"><br>
 
-In this project, my aim wasn’t to produce an exact replica of the archived apple.com page, but rather to focus on how to align all elements with float and flex or grid in CSS. That means two things – laying out the basic structure of the page using semantic HTML elements and ensuring that the elements are appropriately sized and positioned.
-
-Some of the elements in the said archive are produced with Javascript but my objective in this project wasn't to give this page functionality, so nothing nothing else is clickable.
+The aim of this project is to produce an exact replica of the Newsweek homepage, focusing on responsiveness implemented with Twitter's Bootstrap framework. That means two things – using bootstrap CSS classes wherever possible (main point of this project) and double-checking that the page layout does not break on smaller screens.
 
 ## Built with
   * HTML 
-  * CSS (Box Model, Grid, Flex and Float)
+  * CSS (Bootstrap)
   * Lint (Stickler)
   * W3C Validator
 
 ## Live demo
-https://rawcdn.githack.com/teekaytech/apple_clone/95042cc51110c9deca93a1a8c57670a6209614cf/index.html
+[Live Demo Link](https://rawcdn.githack.com/blackpintz/newsweek-clone/1cab0c2314ed68657da922705f57b753ce97b4a8/index.html)
 
 ## Getting started
 **I cloned an archived copy of Apple website. The main aim is to ensure the elements get placed and styled roughly the same way as the source, so functionality is not a priority.**

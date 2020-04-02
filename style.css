@@ -32,5 +32,5 @@ a:hover {
 .newsletter {
   background: url('assets/img/starting5-homepage.png') center no-repeat;
   background-size: cover;
-  height: 240px;
+  min-height: 240px;
 }
