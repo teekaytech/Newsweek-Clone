@@ -1,6 +1,6 @@
-# Apple Clone
+# Newsweek Clone
 
-This is a clone application of Newsweek website.
+This is a clone copy of Newsweek homepage.
 <br><br><img src="assets/img/screen-one.jpg"><br>
 
 The aim of this project is to produce an exact replica of the Newsweek homepage, focusing on responsiveness implemented with Twitter's Bootstrap framework. That means two things – using bootstrap CSS classes wherever possible (main point of this project) and double-checking that the page layout does not break on smaller screens.
