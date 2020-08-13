@@ -24,8 +24,7 @@ I built my own page in a .html text file and opened it in our browser to check i
   - Create a .css file where all our styling code will reside
   - Then open the [web page](https://www.newsweek.com/), inspect its features with browser's developer tools and start creating  :shipit:
 
-## Authors
- :bust_in_silhouette: **Author:**
+## Author
  * Github: https://github.com/teekaytech/
  * Twitter: https://twitter.com/ola_lere
  * LinkedIn: https://www.linkedin.com/in/teekaytech/
