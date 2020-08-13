@@ -12,7 +12,7 @@ The aim of this project is to produce an exact replica of the Newsweek homepage,
   * W3C Validator
 
 ## Live demo
-[Live Demo Link](https://teekaytech.github.io/Newsweek-Clone/)
+[Live Demo Link](https://rawcdn.githack.com/teekaytech/Newsweek-Clone/857ef8b2b7c9617ec36767791c43bc50ec77db9c/index.html)
 
 ## Getting started
 **I created a cloned copy of [Newsweek](https://www.newsweek.com/) homepage. The main aim is to ensure that proper bootstrap classes are used to implement responsiveness, so functionality is not a priority.**
@@ -24,10 +24,9 @@ I built my own page in a .html text file and opened it in our browser to check i
   - Create a .css file where all our styling code will reside
   - Then open the [web page](https://www.newsweek.com/), inspect its features with browser's developer tools and start creating  :shipit:
 
-## Authors
- :bust_in_silhouette: **Author:**
+## Author
  * Github: https://github.com/teekaytech/
- * Twitter: https://twitter.com/ola_lere
+ * Twitter: https://twitter.com/ola_lere:bust_in_silhouette: **Author:**
  * LinkedIn: https://www.linkedin.com/in/teekaytech/
 
 ## Contributing
